@@ -147,7 +147,8 @@ def classifyPerson():
     print "You will probably like this person", resultList[classifierResult - 1], '.'
 
 # 执行测试
-datingClassTest()
+if __name__ == '__main__':
+    datingClassTest()
 
 
 
