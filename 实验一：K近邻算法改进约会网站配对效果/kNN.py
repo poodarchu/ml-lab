@@ -122,7 +122,7 @@ def datingClassTest():
         # 对该测试数据进行分类,该算法没有 "训练算法" 这一步,故直接进行测试。
         classifierResult = classify0(normMat[i, :], normMat[numTestVecs:m, :], datingLabels[numTestVecs:m], 3)
 
-        print "the classifier came back with: %d, the real answer is: %d" % (classifierResult, datingLabels[i])
+        # print "the classifier came back with: %d, the real answer is: %d" % (classifierResult, datingLabels[i])
 
         # 计算错误率
         if(classifierResult != datingLabels[i]):
@@ -132,7 +132,22 @@ def datingClassTest():
     errorRatio = errorCount / float(numTestVecs)
     print "the total error count is: %d. rate is: %f" % (errorCount, errorRatio)
 
+# 约会网站预测函数
+def classifyPerson():
+    resultList = ['not at all', 'in small does', 'in large does']
+    percentTats = float(raw_input("percentage of time spent playing video games?"))
+    ffMiles = float(raw_input("frequent flier miles earned per year?"))
+    iceCream = float(raw_input("liters of ice cream consumed per year?"))
+
+    datingDataMat, datingLabels = file2Matrix('data/datingTestSet2.txt')
+    normMat, ranges, minVals = autoNorm(datingDataMat)
+    inArr = array([ffMiles, percentTats, iceCream])
+    classifierResult = classify0((inArr-minVals)/ranges, normMat, datingLabels, 3)
+
+    print "You will probably like this person", resultList[classifierResult - 1], '.'
+
 # 执行测试
 datingClassTest()
+
 
 
