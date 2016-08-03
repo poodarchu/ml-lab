@@ -1,0 +1,4 @@
+# A test rating file for Movies Recommender GUI
+Star Wars (1977),1
+Star Trek: First Contact (1996),1
+172,Empire Strikes Back: The (1980),1

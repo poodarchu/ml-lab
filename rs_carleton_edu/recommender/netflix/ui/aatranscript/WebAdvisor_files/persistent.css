@@ -1,0 +1,77 @@
+/* Styles for the xhtml-compliant persistent navigation */
+/* Please check this file against the w3c css validator <http://jigsaw.w3.org/css-validator/> 
+before putting any changes into production. */
+
+body {
+	padding:0;
+	margin:0;
+	font-family:Verdana, Helvetica, Arial, sans-serif;
+}
+div#persistentSiteNav {
+	padding:5px 5px 7px 5px;
+	white-space:nowrap;
+}
+div#persistentSiteNav, div#persistentSiteNav a {
+	background-color:#006;
+	color:#fff;
+}
+div#persistentSiteNav a#persistentHomeLink {
+	float:left;
+}
+div#persistentSiteNav form {
+	float:left;
+	margin:4px 19px 0 8px;
+	padding:0;
+	overflow:visible;
+}
+* html div#persistentSiteNav form {
+	padding-bottom:2px;
+}
+div#persistentSiteNav form#persistentSearch {
+	margin-right:0;
+}
+div#persistentSiteNav:after {
+    content:".";
+    display:block;
+    visibility:hidden;
+    clear:both;
+    height:0;
+}
+* html div#persistentSiteNav {
+	height:1%;
+}
+div#persistentSiteNav input, div#persistentSiteNav select, div#persistentSiteNav optgroup {
+	font-size:11px;
+	font-family:Verdana, Helvetica, Arial, sans-serif;
+	background-color:#E8EDF6;
+	color:#000;
+	font-weight:normal;
+}
+div#persistentSiteNav optgroup {
+	margin:.5em 0;
+}
+div#persistentSiteNav form a, div#persistentSiteNav input#persistentQuickNavSubmit, div#persistentSiteNav input#persistentSearchSubmitSite, div#persistentSiteNav input#persistentSearchSubmitDirectory {
+	border:1px solid #36c;
+	margin:0 4px 0 3px;
+	padding:1px 5px 3px 5px;
+	color:#fff;
+	text-decoration:none;
+	font-size:11px;
+	background-color:#006;
+}
+div#persistentSiteNav form a:hover, div#persistentSiteNav input#persistentQuickNavSubmit:hover, div#persistentSiteNav input#persistentSearchSubmitSite:hover, div#persistentSiteNav input#persistentSearchSubmitDirectory:hover {
+	background-color:#36c;
+	color:#fff;
+}
+div#persistentSiteNav form .em {
+	font-weight:bold;
+	color:#333;
+	font-style:italic;
+	background-color:#E8EDF6;
+}
+a#persistentSkipNav, form#persistentSearch label, form#persistentQuickNav label {
+	position:absolute;
+	display:block;
+	width:100px;
+	left:-9999px;
+}

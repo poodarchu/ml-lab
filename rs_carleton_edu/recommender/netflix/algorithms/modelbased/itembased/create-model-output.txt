@@ -1,0 +1,25 @@
+load data local infile "movielens_itemsim_adjcos_5.txt" into table itemsim_adjcos_5 fields terminated by ',' lines terminated by '\n';
+
+mysql> create index midIndex1 on itemsim_adjcos_1(mid1);
+Query OK, 82500 rows affected (0.14 sec)
+Records: 82500  Duplicates: 0  Warnings: 0
+
+mysql> create index midIndex2 on itemsim_adjcos_2(mid1);
+Query OK, 82400 rows affected (0.14 sec)
+Records: 82400  Duplicates: 0  Warnings: 0
+
+mysql> create index midIndex3 on itemsim_adjcos_3(mid1);
+Query OK, 82500 rows affected (0.15 sec)
+Records: 82500  Duplicates: 0  Warnings: 0
+
+mysql> create index midIndex4 on itemsim_adjcos_4(mid1);
+Query OK, 83000 rows affected (0.15 sec)
+Records: 83000  Duplicates: 0  Warnings: 0
+
+mysql> create index midIndex5 on itemsim_adjcos_5(mid1);
+Query OK, 82500 rows affected (0.14 sec)
+Records: 82500  Duplicates: 0  Warnings: 0
+
+mysql> create index midIndexa on itemsim_adjcos_a(mid1);
+Query OK, 84000 rows affected (0.19 sec)
+Records: 84000  Duplicates: 0  Warnings: 0

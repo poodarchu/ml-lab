@@ -1,0 +1,347 @@
+/* ConstituencyStyle for EARTH theme                                                                   */
+
+/* The constituency look and feel is determined using the following rules:                             */
+/* 1) Background color should match lightest gradient in background image (sub-BGxxx)                  */
+/* 2) Three color hues (border, background, text color) are needed for submenu boxes and screen tables */
+/* 3) For the submenus, background color is the lightest.  Color is the darkest                        */
+/* 4) Menu title box uses reverse of submenu fore/background colors                                    */
+/* 5) Tables alternate between border and background (the 2 lightest colors)                           */
+
+
+/* Continuing Education constituency (WBCE) */
+.WBCE                     {background-color:#538445; background-image:url(./images/sub-BGContinuing.jpg);}
+.WBCE #bodyConstituency   {color:#A4C49B;}
+.WBCE #bodyForm           {border-color:#A4C49B;}
+.WBCE .menu .submenu,
+.WBCE .submit INPUT       {border-color:#A4C49B; color:black; background-color:#538445;}
+.WBCE .submit INPUT:hover,
+.WBCE .submit INPUT.buttonPress,
+.WBCE #menuTitle          {border-color:#A4C49B; background-color:#4BA032; color:#538445;}
+.WBCE .menu a:hover,
+.WBCE .menu .submenu a:hover {text-decoration; underline;}
+
+.WBCE table tr td.oddrow         {background-color: #CBCBCB; border:1px solid black;}
+.WBCE table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.WBCE table tr td.oddrow input   {background-color: #FFFFFF;}
+.WBCE table tr td.evenrow input  {background-color: #FFFFFF;}
+.WBCE table tr td.oddrow select  {background-color: #FFFFFF;}
+.WBCE table tr td.evenrow select {background-color: #FFFFFF;}
+.WBCE table th.groupTitle {display: none; }/*text-align: center;} */
+.WBCE .envisionList .oddrow,
+.WBCE .envisionList .evenrow {border-style: none;}
+#mainMenu a.WBCE_Bars        {border:3px solid #4BA032; background-color:#4BA032;}
+#mainMenu a.WBCE_Bars:hover  {border:3px solid #A4C49B}
+#mainMenu li.WBCE_Boxes      {background-image:url(./images/main-pathContinue.jpg); }
+#mainMenu li.WBCE_DISABLED   {background-image:url(./images/main-pathContinueGRAY.jpg);}
+#mainMenu li.WBCE_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBCE hr                  {height:2px; background-color: #6A6A6A; color: #6A6A6A}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Prospective Students constituency (WBAP) */
+/*.WBAP                     {background-color:#652F03; background-image:url(./images/sub-BGProspects.jpg);} */
+.WBAP, #pageBody        {background-color:#4C5976; background-image:none;}
+/* .WBAP #bodyConstituency   {color:#927C69;} */
+.WBAP #bodyForm           {border-color:#CBCBCB;}
+.WBAP .menu .submenu,
+.WBAP .submit INPUT       {border-color:#5D5959; color:white; background-color:#4C5976;}
+.WBAP .submit INPUT:hover,
+.WBAP .submit INPUT.buttonPress  {border-color:#5D5959; color:white: background-color:#4C5976;}
+.WBAP #menuTitle          {display:none;}
+.WBAP .menu a:hover,
+.WBAP .menu .submenu a:hover {text-decoration: underline;}
+
+.WBAP table tr td.oddrow         {background-color: #CBCBCB; border:1px solid black;}
+.WBAP table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.WBAP table tr td.oddrow input   {background-color: #FFFFFF;}
+.WBAP table tr td.evenrow input  {background-color: #FFFFFF;}
+.WBAP table tr td.oddrow select  {background-color: #FFFFFF;}
+.WBAP table tr td.evenrow select {background-color: #FFFFFF;}
+.WBAP table th.groupTitle {display: none; }/*text-align: center;} */
+.WBAP .envisionList .oddrow,
+.WBAP .envisionList .evenrow {border-style: none;}
+#mainMenu a.WBAP_Bars        {border:3px solid #4C5976; background-color:#4C5976;}
+#mainMenu a.WBAP_Bars:hover  {border:3px solid #788AA3}
+#mainMenu li.WBAP_Boxes      {background-image:url(./images/main-pathProspect.jpg); }
+#mainMenu li.WBAP_DISABLED   {background-image:url(./images/main-pathProspectGRAY.jpg);}
+#mainMenu li.WBAP_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBAP hr                  {height:2px; background-color: #6A6A6A; color: #6A6A6A}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Current Students constituency (WBST) */
+/* .WBST                     {background-color:#9CB7CB; background-image:url(./images/sub-BGCurrentStudents.jpg);} */
+.WBST, #pageBody        {background-color:#4C5976; background-image:none;}
+/* .WBST #bodyConstituency   {color:#9CB7CB;} */
+.WBST #bodyForm           {border-color:#CBCBCB;}
+.WBST .menu .submenu,
+.WBST .submit INPUT       {border-color:#5D5959; color:white; background-color:#4C5976;}
+.WBST .submit INPUT:hover,
+.WBST .submit INPUT.buttonPress  {border-color:#5D5959; color:white; background-color:#4C5976;}
+.WBST #menuTitle          {display:none;}
+.WBST .menu a:hover,
+.WBST .menu .submenu a:hover {text-decoration: underline;}
+
+.WBST table tr td.oddrow         {background-color: #CBCBCB; border:1px solid black;}
+.WBST table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.WBST table tr td.oddrow input   {background-color: #FFFFFF;}
+.WBST table tr td.evenrow input  {background-color: #FFFFFF;}
+.WBST table tr td.oddrow select  {background-color: #FFFFFF;}
+.WBST table tr td.evenrow select {background-color: #FFFFFF;}
+.WBST table th.groupTitle {display: none; }/*text-align: center;} */
+.WBST .envisionList .oddrow,
+.WBST .envisionList .evenrow {border-style: none;}
+#mainMenu a.WBST_Bars        {border:3px solid #426987; background-color:#426987;}
+#mainMenu a.WBST_Bars:hover  {border:3px solid #9CB7CB}
+#mainMenu li.WBST_Boxes      {background-image:url(./images/main-pathCurrent.jpg); }
+#mainMenu li.WBST_DISABLED   {background-image:url(./images/main-pathCurrentGRAY.jpg);}
+#mainMenu li.WBST_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBST hr                  {height:2px; background-color: #6A6A6A; color: #6A6A6A}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Faculty constituency (WBFC) */
+/* .WBFC                     {background-color:#246A0C; background-image:url(./images/sub-BGFaculty.jpg);} */
+.WBFC, #pageBody        {background-color:#4C5976; background-image:none;}
+/* .WBFC #bodyConstituency   {color:#668D58;} */
+.WBFC #bodyForm           {border-color:#CBCBCB;}
+.WBFC .menu .submenu,
+.WBFC .submit INPUT       {border-color:#5D5959; color:white; background-color:#4C5976;}
+.WBFC .submit INPUT:hover,
+.WBFC .submit INPUT.buttonPress {border-color:#5D5959; color:white; background-color:#4C5976;}
+.WBFC #menuTitle          {display:none;}
+.WBFC .menu a:hover,
+.WBFC .menu .submenu a:hover {text-decoration: underline;}
+
+.WBFC table tr td.oddrow         {background-color: #CBCBCB; border:1px solid black;}
+.WBFC table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.WBFC table tr td.oddrow input   {background-color: #FFFFFF;}
+.WBFC table tr td.evenrow input  {background-color: #FFFFFF;}
+.WBFC table tr td.oddrow select  {background-color: #FFFFFF;}
+.WBFC table tr td.evenrow select {background-color: #FFFFFF;}
+.WBFC table th.groupTitle {display: none; }/*text-align: center;} */
+.WBFC .envisionList .oddrow,
+.WBFC .envisionList .evenrow {border-style: none;}
+#mainMenu a.WBFC_Bars        {border:3px solid #1A3212; background-color:#1A3212;}
+#mainMenu a.WBFC_Bars:hover  {border:3px solid #668D58}
+#mainMenu li.WBFC_Boxes      {background-image:url(./images/main-pathFaculty.jpg); }
+#mainMenu li.WBFC_DISABLED   {background-image:url(./images/main-pathFacultyGRAY.jpg);}
+#mainMenu li.WBFC_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBFC hr                  {height:2px; background-color: #6A6A6A; color: #6A6A6A}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Employees constituency (WBEM) */
+.WBDF, #pageBody        {background-color:#4C5976; background-image:none;}
+.WBEM #bodyForm           {border-color:#CBCBCB;}
+.WBEM .menu .submenu,
+.WBEM .submit INPUT       {border-color:#5D5959; color:white; background-color:#4C5976;}
+.WBEM .submit INPUT:hover,
+.WBEM .submit INPUT.buttonPress  {border-color:#5D5959; color:white; background-color:#4C5976;}
+.WBEM #menuTitle          {display:none;}
+.WBEM .menu a:hover,
+.WBEM .menu .submenu a:hover {text-decoration: underline;}
+
+.WBEM table tr td.oddrow         {background-color: #CBCBCB; border:1px solid black;}
+.WBEM table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.WBEM table tr td.oddrow input   {background-color: #FFFFFF;}
+.WBEM table tr td.evenrow input  {background-color: #FFFFFF;}
+.WBEM table tr td.oddrow select  {background-color: #FFFFFF;}
+.WBEM table tr td.evenrow select {background-color: #FFFFFF;}
+.WBEM table th.groupTitle {display: none; }/*text-align: center;} */
+.WBEM .envisionList .oddrow,
+.WBEM .envisionList .evenrow {border-style: none;}
+#mainMenu a.WBEM_Bars        {border:3px solid #C7B378; background-color:#C7B378;}
+#mainMenu a.WBEM_Bars:hover  {border:3px solid #EBE0C2}
+HTML>BODY #mainMenu li.WBEM_Boxes  {margin-left:98px;}
+#mainMenu li.WBEM_Boxes      {background-image:url(./images/main-pathEmployee.jpg); margin-left:49px;}
+/* Non-IE browsers */
+#mainMenu li.WBEM_DISABLED   {background-image:url(./images/main-pathEmployeeGRAY.jpg); margin-left:98px;}
+/* IE specific */
+* html #mainMenu li.WBEM_DISABLED   {background-image:url(./images/main-pathEmployeeGRAY.jpg); margin-left:49px;}
+#mainMenu li.WBEM_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBEM hr                  {height:2px; background-color: #6A6A6A; color: #6A6A6A}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Vendors constituency (WBVN) */
+.WBVN                     {background-color:#81A9BF; background-image: url(./images/sub-BGVendors.jpg);}
+.WBVN #bodyConstituency   {color:#E0E9F0;}
+.WBVN #bodyForm           {border-color:#E0E9F0;}
+.WBVN .menu .submenu,
+.WBVN .submit INPUT       {border-color:#E0E9F0; color:black; background-color:#81A9BF;}
+.WBVN .submit INPUT:hover,
+.WBVN .submit INPUT.buttonPress,
+.WBVN #menuTitle          {border-color:#E0E9F0; background-color:#8EA9C0; color:#81A9BF;}
+.WBVN .menu a:hover,
+.WBVN .menu .submenu a:hover {color:blue;}
+
+.WBVN table tr td.oddrow         {background-color: #E0E9F0; border:1px solid black;}
+.WBVN table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.WBVN table tr td.oddrow input   {background-color: #FFFFFF;}
+.WBVN table tr td.evenrow input  {background-color: #FFFFFF;}
+.WBVN table tr td.oddrow select  {background-color: #FFFFFF;}
+.WBVN table tr td.evenrow select {background-color: #FFFFFF;}
+.WBVN table th.groupTitle {display: none; }/*text-align: center;} */
+.WBVN .envisionList .oddrow,
+.WBVN .envisionList .evenrow {border-style: none;}
+#mainMenu a.WBVN_Bars        {border:3px solid #8EA9C0; background-color:#8EA9C0;}
+#mainMenu a.WBVN_Bars:hover  {border:3px solid #E0E9F0}
+#mainMenu li.WBVN_Boxes      {background-image:url(./images/main-pathVendor.jpg); }
+#mainMenu li.WBVN_DISABLED   {background-image:url(./images/main-pathVendorGRAY.jpg);}
+#mainMenu li.WBVN_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBVN hr                  {height:2px; background-color: #8EA9C0; color: #8EA9C0}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Advancement Officers constituency (WBAO) */
+.WBAO                     {background-color:#E8F3E0; background-image:url(./images/sub-BGAdvancement.jpg);}
+.WBAO #bodyConstituency   {color:#E8F3E0;}
+.WBAO #bodyForm           {border-color:#A4BB93;}
+.WBAO .menu .submenu,
+.WBAO .submit INPUT       {border-color:#A4BB93; color:black; background-color:#E8F3E0;}
+.WBAO .submit INPUT:hover,
+.WBAO .submit INPUT.buttonPress,
+.WBAO #menuTitle          {border-color:#A4BB93; background-color:#88B861; color:#E8F3E0;}
+.WBAO .menu a:hover,
+.WBAO .menu .submenu a:hover {color:blue;}
+
+.WBAO table tr td.oddrow         {background-color: #E8F3E0; border:1px solid black;}
+.WBAO table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.WBAO table tr td.oddrow input   {background-color: #FFFFFF;}
+.WBAO table tr td.evenrow input  {background-color: #FFFFFF;}
+.WBAO table tr td.oddrow select  {background-color: #FFFFFF;}
+.WBAO table tr td.evenrow select {background-color: #FFFFFF;}
+.WBAO table th.groupTitle {display: none; }/*text-align: center;} */
+.WBAO .envisionList .oddrow,
+.WBAO .envisionList .evenrow {border-style: none;}
+#mainMenu a.WBAO_Bars        {border:3px solid #88B861; background-color:#88B861;}
+#mainMenu a.WBAO_Bars:hover  {border:3px solid #E8F3E0}
+#mainMenu li.WBAO_Boxes      {background-image:url(./images/main-pathAdvance.jpg); }
+#mainMenu li.WBAO_DISABLED   {background-image:url(./images/main-pathAdvanceGRAY.jpg);}
+#mainMenu li.WBAO_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBAO hr                  {height:2px; background-color: #88B861; color: #88B861}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Alumni and Friends constituency (WBAF) */
+.WBAF                     {background-color:#708CA1; background-image:url(./images/sub-BGAlumni.jpg);}
+.WBAF #bodyConstituency   {color:#708CA1;}
+.WBAF #bodyForm           {border-color:#225070;}
+.WBAF .menu .submenu,
+.WBAF .submit INPUT       {border-color:#225070; color:black; background-color:#708CA1;}
+.WBAF .submit INPUT:hover,
+.WBAF .submit INPUT.buttonPress,
+.WBAF #menuTitle          {border-color:#225070; background-color:#1A2D3B; color:#708CA1;}
+.WBAF .menu a:hover,
+.WBAF .menu .submenu a:hover {color:blue;}
+
+.WBAF table tr td.oddrow         {background-color: #708CA1; border:1px solid black;}
+.WBAF table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.WBAF table tr td.oddrow input   {background-color: #FFFFFF;}
+.WBAF table tr td.evenrow input  {background-color: #FFFFFF;}
+.WBAF table tr td.oddrow select  {background-color: #FFFFFF;}
+.WBAF table tr td.evenrow select {background-color: #FFFFFF;}
+.WBAF table th.groupTitle {display: none; }/*text-align: center;} */
+.WBAF .envisionList .oddrow,
+.WBAF .envisionList .evenrow {border-style: none;}
+#mainMenu a.WBAF_Bars        {border:3px solid #1A2D3B; background-color:#1A2D3B;}
+#mainMenu a.WBAF_Bars:hover  {border:3px solid #708CA1}
+HTML>BODY #mainMenu li.WBAF_Boxes  {margin-left:196px;}
+#mainMenu li.WBAF_Boxes      {background-image:url(./images/main-pathAlumni.jpg); margin-left:98px; }
+/* Non-IE browsers */
+#mainMenu li.WBAF_DISABLED   {background-image:url(./images/main-pathAlumniGRAY.jpg); margin-left:196px; }
+/* IE specific */
+* html #mainMenu li.WBAF_DISABLED   {background-image:url(./images/main-pathAlumniGRAY.jpg); margin-left:98px; }
+#mainMenu li.WBAF_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBAF hr                  {height:2px; background-color: #1A2D3B; color: #1A2D3B}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Advisors constituency (WBAD) */
+/* .WBAD                     {background-color:#CEBEA4; background-image:url(./images/sub-BGAdvisors.jpg);} */
+.WBAD, #pageBody        {background-color:#4C5976; background-image:none;}
+/* .WBAD #bodyConstituency   {color:#CEBEA4;} */
+.WBAD #bodyForm           {border-color:#CBCBCB;}
+.WBAD .menu .submenu,
+.WBAD .submit INPUT       {border-color:#5D5959; color:white; background-color:#4C5976;}
+.WBAD .submit INPUT:hover,
+.WBAD .submit INPUT.buttonPress   {border-color:#5D5959; color:white; background-color:#4C5976;}
+.WBAD #menuTitle          {display:none;}
+.WBAD .menu a:hover,
+.WBAD .menu .submenu a:hover {text-decoration: underline;}
+
+.WBAD table tr td.oddrow         {background-color: #CBCBCB; border:1px solid black;}
+.WBAD table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.WBAD table tr td.oddrow input   {background-color: #FFFFFF;}
+.WBAD table tr td.evenrow input  {background-color: #FFFFFF;}
+.WBAD table tr td.oddrow select  {background-color: #FFFFFF;}
+.WBAD table tr td.evenrow select {background-color: #FFFFFF;}
+.WBAD table th.groupTitle {display: none; }/*text-align: center;} */
+.WBAD .envisionList .oddrow,
+.WBAD .envisionList .evenrow {border-style: none;}
+#mainMenu a.WBAD_Bars        {border:3px solid #806433; background-color:#806433;}
+#mainMenu a.WBAD_Bars:hover  {border:3px solid #CEBEA4}
+#mainMenu li.WBAD_Boxes      {background-image:url(./images/main-pathAdvisor.jpg);}
+#mainMenu li.WBAD_DISABLED   {background-image:url(./images/main-pathAdvisorGRAY.jpg);}
+#mainMenu li.WBAD_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBAD hr                  {height:2px; background-color: #6A6A6A; color: #6A6A6A}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Default/Null constituency (WBDF) */
+.WBDF                     {background-color:#CBCBCB; background-image:url(./images/sub-BGDefault.jpg);}
+.WBDF #bodyForm           {border-color:#CBCBCB;}
+.WBDF .menu .submenu,
+.WBDF .submit INPUT       {border-color:#5D5959; color:white; background-color:#788AA3;}
+.WBDF .submit INPUT:hover,
+.WBDF .submit INPUT.buttonPress  {border-color:#5D5959; color:white; background-color:#788AA3;}
+.WBDF #menuTitle          {display:none;}
+/* .WBDF .menu a:hover,
+.WBDF .menu .submenu a:hover {color:blue;} */
+
+.WBDF table tr td.oddrow         {background-color: #CBCBCB; border:1px solid black;}
+.WBDF table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.WBDF table tr td.oddrow input   {background-color: #FFFFFF;}
+.WBDF table tr td.evenrow input  {background-color: #FFFFFF;}
+.WBDF table tr td.oddrow select  {background-color: #FFFFFF;}
+.WBDF table tr td.evenrow select {background-color: #FFFFFF;}
+
+.WBDF table th.groupTitle {display: none; }/*text-align: center;} */
+.WBDF .envisionList .oddrow,
+.WBDF .envisionList .evenrow {border-style: none;}
+.WBAD hr                  {height:2px; background-color: #6A6A6A; color: #6A6A6A}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Generic -- Overrides all styles above */
+.WBDF, #pageBody 	{background-color:#4C5976; background-image:none;}
+#bodyForm           {border-color:#CBCBCB;}
+.menu .submenu,
+.submit INPUT       {border-color:#5D5959; color:white; background-color:#4C5976;}
+.submit INPUT:hover,
+.submit INPUT.buttonPress  {border-color:#5D5959; color:white; background-color:#4C5976;}
+#menuTitle          {display:none;}
+.menu a:hover,
+.menu .submenu a:hover {text-decoration: underline;} 
+
+table tr td.oddrow         {background-color: #CBCBCB; border:1px solid black;}
+table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+table tr td.oddrow input   {background-color: #FFFFFF;}
+table tr td.evenrow input  {background-color: #FFFFFF;}
+table tr td.oddrow select  {background-color: #FFFFFF;}
+table tr td.evenrow select {background-color: #FFFFFF;}
+
+table th.groupTitle {display: none; }/*text-align: center;} */
+.envisionList .oddrow,
+.envisionList .evenrow {border-style: none;}
+hr                  {height:2px; background-color: #6A6A6A; color: #6A6A6A}

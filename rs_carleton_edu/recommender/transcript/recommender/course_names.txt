@@ -1,0 +1,1292 @@
+AFAM 113 Introduction to African/African American Studies
+AFAM 233 A Study of the Harlem Renaissance through Literature, Music and Dance
+AMST 115 Introduction to American Studies
+AMST 127 Introduction to U.S. Latino/a Studies
+AMST 203 Investigative Reporting for the Incurably Curious
+AMST 230 The American Sublime: Landscape, Character & National Destiny in Nineteenth Century America
+AMST 240 The Midwest and the American Imagination
+AMST 267 Utopia, Dystopia, and Myopia: The Suburbs in American Fiction
+AMST 310 Driving America? The Impact of the Automobile on U.S. Society
+AMST 345 Theory and Practice of American Studies
+AMST 396 Junior Research Seminar
+AMST 400 Colloquium and Integrative Exercise in American Studies
+ARCN 246 Archaeological Methodology
+ARCN 395 Archaeology Capstone Seminar
+ARTH 101 Introduction to Art History I
+ARTH 102 Introduction to Art History II
+ARTH 144 Architecture Across Cultures
+ARTH 160 American Art to 1940
+ARTH 165 Japanese Art and Culture
+ARTH 166 Chinese Art and Culture
+ARTH 170 History of Printmaking
+ARTH 172 Modern Art: 1890-1945
+ARTH 180 Medieval Art
+ARTH 182 History of South Asian Art
+ARTH 208 Ritual and Rhetoric in Ancient Chinese Art
+ARTH 209 Chinese Painting
+ARTH 220 Gender and Genre in the Floating World: Japanese Prints
+ARTH 222 History of Photography
+ARTH 223 Women in Art
+ARTH 230 The Sistine Chapel
+ARTH 232 Spanish Art
+ARTH 233 Van Eyck, Bosch, Bruegel: Their Visual Culture
+ARTH 234 Italian Renaissance Art
+ARTH 238 Rembrandt and Netherlandish Art in Context
+ARTH 239 Netherlandish Art on Site
+ARTH 240 Art Since 1945
+ARTH 242 Impressionism
+ARTH 245 Modern Architecture
+ARTH 247 Architecture Since 1950
+ARTH 249 Object Lessons: Material Culture and American History
+ARTH 288 Curatorial Seminar
+ARTH 298 Seminar for Art History Majors
+ARTH 310 The Architecture of Frank Lloyd Wright
+ARTH 400 Integrative Exercise
+ARTS 110 Observational Drawing
+ARTS 113 Field Drawing
+ARTS 122 Introduction to Sculpture
+ARTS 210 Life Drawing
+ARTS 212 Australia/New Zealand Program: Mixed-Media Drawing
+ARTS 230 Ceramics
+ARTS 232 Ceramics
+ARTS 238 Photography I
+ARTS 251 Metalsmithing
+ARTS 260 Painting
+ARTS 273 Introduction to Digital Art
+ARTS 274 Australia/New Zealand Program: Printmaking
+ARTS 274 Printmaking
+ARTS 275 Australia/New Zealand Program: Physical and Cultural Environment of Australia and New Zealand
+ARTS 276 Paper Arts
+ARTS 278 Paper Arts: Bookbinding
+ARTS 298 Critical Issues in Contemporary Arts
+ARTS 322 Advanced Sculpture and Installation
+ARTS 327 Advanced Woodworking - The Table
+ARTS 330 Advanced Ceramics
+ARTS 338 Advanced Photo: Color Photography
+ARTS 339 Advanced Photo: Digital Imaging
+ARTS 340 Photography in Hawaii: Introduction to the Big Island
+ARTS 341 Photography in Hawaii - On Site
+ARTS 351 Advanced Metals
+ARTS 360 Advanced Painting & Drawing
+ARTS 374 Advanced Printmaking and Book Arts
+ARTS 400 Integrative Exercise
+ASLN 111 Writing Systems
+ASLN 231 Intercultural Texts: Japanese and Indian Women Writing Abroad
+ASLN 237 Tao of Wisdom in Asian Literature: Chinese Roots, Lebanese Prophets, and Indian Stray Birds
+ASLN 260 Historical Linguistics      
+CHIN 101 Elementary Chinese
+CHIN 102 Elementary Chinese
+CHIN 103 Elementary Chinese
+CHIN 115 The Taoist Way of Health and Longevity: Taichi and Other Forms
+CHIN 204 Intermediate Chinese
+CHIN 205 Intermediate Chinese
+CHIN 206 Chinese in Cultural Context
+CHIN 207 Tianjin Program: Intermediate Chinese Language
+CHIN 212 Tianjin Program: Chinese Culture
+CHIN 235 Beauty, Good, and Evil in Chinese Literature in Translation
+CHIN 241 Twentieth Century Chinese Literature and Film in Translation
+CHIN 250 Contemporary Chinese Literature and Film in Translation
+CHIN 282 Tianjin Program: Chinese Civilization
+CHIN 307 Tianjin Program: Advanced Chinese Language
+CHIN 345 Advanced Readings in Chinese Literature: Selected Prose
+CHIN 346 Advanced Readings in Chinese Fiction
+CHIN 347 Advanced Readings in Contemporary Chinese Prose: Newspapers
+CHIN 348 Advanced Chinese: The Mass Media
+CHIN 349 Advanced Chinese: Social Commentary
+CHIN 350 Advanced Chinese: Poems and Stories
+CHIN 355 Contemporary Chinese Short Stories and Films
+CHIN 356 Modern and Contemporary Women Writers
+CHIN 357 Advanced Chinese: Contemporary Social Issues
+CHIN 360 Classical Chinese
+JAPN 101 Elementary Japanese
+JAPN 102 Elementary Japanese
+JAPN 103 Elementary Japanese
+JAPN 204 Intermediate Japanese
+JAPN 205 Intermediate Japanese
+JAPN 206 Intermediate Japanese
+JAPN 230 Topics in Pre-Modern Literature in Translation
+JAPN 231 Japanese Cinema in Translation
+JAPN 232 Autobiography in Modern Japan in Translation
+JAPN 236 Classical Japanese Fiction: The Tale of Genji and Its World in Translation
+JAPN 237 Literature and Arts of Japan: 1333-1868 in Translation
+JAPN 240 Literature and Society of Modern Japan in Translation
+JAPN 241 Contemporary and Modern Japanese Fiction in Translation
+JAPN 242 Japanese Poetry in Translation
+JAPN 343 Advanced Japanese through Fiction and Film
+JAPN 344 Advanced Writing: Contemporary Prose
+JAPN 345 Advanced Reading in Modern Japanese Literature: The Short Story
+JAPN 347 Advanced Reading in Contemporary Japanese Prose: Newspapers
+JAPN 348 Advanced Japanese Conversation and Composition
+JAPN 349 Advanced Readings in Contemporary Japanese Prose
+JAPN 350 Advanced Readings in Contemporary Culture
+JAPN 351 Advanced Japanese through Documentary Film
+ASST 400 Integrative Exercise
+PHYS 100 The Origins of Modern Science
+PHYS 112 Elementary Physics
+PHYS 113 Introduction to Physics: Newtonian Mechanics
+PHYS 114 Introduction to Physics: Gravity and the Cosmos
+PHYS 115 Introduction to Physics: Relativity and Particles
+PHYS 120 Revolutions in Physics
+PHYS 123 What Physicists Do
+PHYS 126 Physics of Laboratory Instrumentation
+PHYS 223 Presentation Skills in Physics
+PHYS 228 Atomic and Nuclear Physics
+PHYS 229 Classical Mechanics
+PHYS 230 Computational Mechanics
+PHYS 232 Astrophysics I
+PHYS 233 Astrophysics II
+PHYS 234 Computer Simulations in Complex Physical Systems
+PHYS 235 Electricity and Magnetism
+PHYS 247 Digital Electronics
+PHYS 260 Materials Science
+PHYS 261 Medical Physics
+PHYS 336 Quantum Mechanics I
+PHYS 337 Quantum Mechanics II
+PHYS 338 Thermal Physics
+PHYS 341 Waves
+PHYS 342 Contemporary Experimental Physics
+PHYS 343 Electronics
+PHYS 344 Classical and Quantum Optics
+PHYS 350 Advanced Classical Mechanics
+PHYS 352 Advanced Electricity and Magnetism
+PHYS 353 Statistical Mechanics
+PHYS 354 Solid State Physics
+PHYS 356 Special Project
+PHYS 400 Integrative Exercise
+ASTR 110 Introduction to Astronomy
+ASTR 113 Observational and Laboratory Astronomy
+ASTR 232 Astrophysics I
+ASTR 233 Astrophysics II
+ASTR 356 Special Project
+BIOL 112 Conservation
+BIOL 116 Biotechnology, Health, and Society
+BIOL 118 Biology of Music
+BIOL 125 Genes, Evolution, and Development
+BIOL 126 Energy Flow in Biological Systems
+BIOL 160 Agroecology
+BIOL 190 Global Change Biology
+BIOL 221 Ecosystem Ecology
+BIOL 222 Ecosystem Ecology Laboratory
+BIOL 234 Microbiology
+BIOL 235 Microbiology Laboratory
+BIOL 236 Plant Biology
+BIOL 238 Entomology
+BIOL 239 Entomology Laboratory
+BIOL 240 Genetics
+BIOL 241 Genetics Laboratory
+BIOL 260 Visiting Speakers Seminar
+BIOL 270 Animal Physiology
+BIOL 278 Introduction to Biochemistry
+BIOL 280 Cell Biology
+BIOL 281 Cell Biology Laboratory
+BIOL 302. Methods of Teaching Science
+BIOL 310 Immunology
+BIOL 311 Immunology Laboratory
+BIOL 342 Animal Developmental Biology
+BIOL 343 Animal Developmental Biology Laboratory
+BIOL 344 Plant Development
+BIOL 345 Plant Development Laboratory
+BIOL 348 Paleoecology
+BIOL 349 Paleoecology Laboratory
+BIOL 350 Evolution
+BIOL 352 Population Ecology
+BIOL 353 Population Ecology Laboratory
+BIOL 354 Human Cutaneous Biology
+BIOL 359 Plant Physiological Ecology
+BIOL 360 Plant Physiological Ecology Lab
+BIOL 361 Tropical Rainforest Ecology
+BIOL 362 Field Investigation in Tropical Rainforest Ecology
+BIOL 365 Topics in Neuroscience
+BIOL 368 Developmental Neurobiology
+BIOL 369 Developmental Neurobiology Laboratory
+BIOL 370 Seminar: Selected Topics in Virology
+BIOL 372 Seminar: Selected Topics in Exercise Biochemistry
+BIOL 373 Behavioral Endocrinology
+BIOL 380 Biochemistry
+BIOL 381 Biochemistry Laboratory
+BIOL 382 Molecular Biology
+BIOL 383 Molecular Biology Laboratory
+BIOL 384 Oncogenes and the Molecular Biology of Cancer
+BIOL 385 Seminar: Microbial Pathogenesis
+BIOL 386 Neurobiology
+BIOL 387 Neurobiology Laboratory
+BIOL 394 Biology Research
+BIOL 395 Research Experience Seminar in Biology
+BIOL 400 Integrative Exercise
+CHEM 115 Chemistry in Context
+CHEM 122 An Introduction to Chemistry
+CHEM 123 Principles of Chemistry
+CHEM 128 Principles of Environmental Chemistry
+CHEM 230 Equilibrium and Analysis
+CHEM 233 Organic Chemistry I
+CHEM 234 Organic Chemistry II
+CHEM 304 Quantum Spectroscopy Laboratory
+CHEM 305 Chemical Kinetics Laboratory
+CHEM 306 Spectroscopic Characterization of Chemical Compounds
+CHEM 320 Biological Chemistry
+CHEM 321 Biological Chemistry Laboratory
+CHEM 328 Environmental Analysis
+CHEM 329 Environmental Analysis Laboratory
+CHEM 334 Bioanalytical Chemistry
+CHEM 335 Bioanalytical Chemistry Laboratory
+CHEM 338 Introduction to Computers and Electronics in Chemical Instrumentation
+CHEM 343 Chemical Thermodynamics
+CHEM 344 Quantum Chemistry
+CHEM 345 Statistical Thermodynamics
+CHEM 348 Introduction to Computational Chemistry
+CHEM 349 Computational Chemistry Laboratory
+CHEM 350 Chemical and Biosynthesis
+CHEM 351 Inorganic Chemistry
+CHEM 352 Laboratory in Advanced Inorganic Chemistry
+CHEM 353 Organic Chemistry III
+CHEM 354 Lasers and Spectroscopy
+CHEM 355 Lasers and Spectroscopy Laboratory
+CHEM 359 Molecular Orbital Theory
+CHEM 394 Student-Faculty Research
+CHEM 400 Integrative Exercise
+CAMS 110 Introduction to Cinema and Media Studies
+CAMS 111 Introduction to Video Production
+CAMS 112 Screenwriting
+CAMS 122 Video Production for Community Television
+CAMS 214 Film History and Criticism
+CAMS 215 American Film History
+CAMS 216 History of Television and American Mass Media
+CAMS 218 Environmental Issues and Media Representation
+CAMS 219 Audio Workshop
+CAMS 220 Nonfiction Video Production
+CAMS 221 Fiction Video Production
+CAMS 222 News Story Workshop
+CAMS 223 Creating Journalism
+CAMS 227 Open the Box: Studies in Television
+CAMS 228 Rethinking the Fifties Through Film, Television and Photography
+CAMS 229 Outsiders Cinema: Fiction Film
+CAMS 232 Cinema at the Edge: The Idea of the Avant-Garde
+CAMS 233 Italian Neorealism and Its Legacy
+CAMS 234 Film Noir: The Dark Side of the American Dream
+CAMS 235 Film and the Melodramatic Imagination
+CAMS 238 Border Crossings: Postmodern Perspectives on French and German Cinema
+CAMS 240 European Women Filmmakers
+CAMS 244 Representing Reality: Nonfiction Film and Video
+CAMS 245 Documentary Video: History/Theory/Practice
+CAMS 252 New Media Seminar: Understanding New Media
+CAMS 260 New Media Seminar: Cyberculture: Digital Seeing and Surveillance
+CAMS 262 Advanced Editing Techniques
+CAMS 263 New Media Seminar: Authoring New Media
+CAMS 273 We Media: The Personal Media Revolution
+CAMS 280 The Cinema of Stanley Kubrick 
+CAMS 281 The Cinema of Martin Scorsese
+CAMS 282 Hitchcock: The Classic Films
+CAMS 283 Capra and Wilder: Sweet and Sour
+CAMS 345 Moviegoing and Film Exhibition in America
+CLAS 109 Power and Persuasian
+CLAS 110 Introduction to Classical Studies
+CLAS 112 The Epic in Classical Antiquity
+CLAS 114 Gender and Sexuality in Classical Antiquity
+CLAS 116 Ancient Drama: Truth in Performance
+CLAS 117 Archaeology of Greece
+CLAS 125 Love, Death and Destiny: The Ancient Novel
+CLAS 126 America and the Classics
+CLAS 130 Ancient Greek Religion
+CLAS 227 Greek History: The Greek World From the Rise of the City-State to the Rise of the Hellenistic Kingdom
+CLAS 228 Roman History, Republic and Principate
+CLAS 229 The Later Roman Empire, Byzantium and Islam
+CLAS 295 Junior Skills Portfolio
+CLAS 394 Senior Seminar
+CLAS 400 Senior Symposium
+GRK 101 Elementary Greek
+GRK 102 Intermediate Greek
+GRK 103 Greek Prose
+GRK 204 Greek Tragedy
+GRK 230 Homer: Selections
+GRK 244 Plato, Gorgias
+GRK 245 Herodotus
+GRK 248 Ancient Greek Composition
+GRK 258 Greek Orators
+GRK 304 Greek Tragedy for Advanced Students
+GRK 351 Aristophanes
+GRK 352 Thucydides
+GRK 353 Greek Epigraphy
+LATN 101 Elementary Latin
+LATN 102 Intermediate Latin
+LATN 103 Latin Prose
+LATN 204 Catullus and Other Latin Poets
+LATN 240 Lucretius
+LATN 241 Petronius and Apuleius
+LATN 243 Medieval Latin
+LATN 245 Cicero
+LATN 248 Latin Composition
+LATN 254 Survey of the Latin Silver Age
+LATN 258 Seminar: Horace
+LATN 345 Roman Comedy
+LATN 347 Themes in Latin Love Elegy
+LATN 349 Ovid's Metamorphoses
+LATN 359 Seminar: Virgil
+CGST 130 How to Build a Mind: An Introduction to Cognitive Science
+CGST 360 Artificial Intelligence
+CGST 396 Directed Research in Cognitive Studies
+CGST 400 Integrative Exercise
+CS 100 Freshman Seminar
+CS 107 Explorations in Computer Science
+CS 117 Introduction to Computer Science
+CS 127 Data Structures
+CS 177 Mathematics of Computer Science
+CS 207 Computer Organization and Architecture
+CS 217 Programming Languages
+CS 227 Algorithms
+CS 237 Theory of Computation
+CS 257 Software Design
+CS 307 Operating Systems
+CS 317 Computer Graphics
+CS 327 Artificial Intelligence
+CS 337 Computer Networks
+CS 347 Database Systems
+CS 357 Natural Language Processing
+CS 377 Data Mining
+CS 395 Senior Seminar
+CS 400 Integrative Exercise
+CCST 100 Growing Up Cross-Culturally
+CCST 275 I'm A Stranger Here Myself
+CCST 395 Cross-Cultural Studies Capstone Seminar      
+DANC 107 Ballet I
+DANC 114 Black Dance: An Historical Survey Through Movement, Composition, Readings and Guest Lecture-Performa
+DANC 138 Jazz
+DANC 147 Moving Anatomy
+DANC 148 Modern Dance I: Technique and Theory
+DANC 150 Contact Improvisation
+DANC 175 Architectural Dances
+DANC 180 Movement, Words, Meaning
+DANC 185 Improvisation: A Choreographer's Tool
+DANC 200 Modern Dance II: Technique and Theory
+DANC 204 Fall Dance
+DANC 205 Winter Dance
+DANC 206 Spring Dance
+DANC 208 Ballet II
+DANC 214 Fall Dance, Student Choreography
+DANC 215 Winter Dance, Student Choreography
+DANC 253 Movement for the Performer
+DANC 264 Dance in Jamaica: The African Thread
+DANC 265 Dance in Jamaica: The African Thread/Field Trip
+DANC 300 Modern Dance III: Technique and Theory
+DANC 301 Contemporary Styles and Techniques: African Dance
+DANC 309 Ballet III
+DANC 350 Semaphore Repertory Dance Company
+THEA 100 Acting Up
+THEA 110 Beginning Acting
+THEA 115 Introduction to Design and Technical Theater
+THEA 175 Drama/Theatre/Text
+THEA 185 The Speaking Voice
+THEA 190 Carleton Players Production
+THEA 209 Project Course
+THEA 211 Intermediate Acting
+THEA 221 Rhetoric: Persuasion and Debate
+THEA 236 Scenic and Lighting Design for the Theater
+THEA 238 Costume Design for Theater
+THEA 240 Directing I
+THEA 241 Directing II
+THEA 242 Twentieth Century American Drama
+THEA 246 Playwriting
+THEA 252 African-American Theater
+THEA 275 Topics in Theater History
+THEA 320 The Performer and the Text
+THEA 343 Modern British and European Drama
+THEA 351 Women Playwrights/Women's Roles
+THEA 352 African-American Theater
+ECON 110 Principles of Macroeconomics
+ECON 111 Principles of Microeconomics
+ECON 221 Cambridge Program: Contemporary British Economy
+ECON 222 Cambridge Program: The Industrial Revolution in Britain
+ECON 223 Cambridge Program: Financial Markets--Fiction and Fact
+ECON 224 Cambridge Program: Economics of Multinational Corporations
+ECON 231 Soviet and Post-Soviet Economics
+ECON 232 American Economic History
+ECON 233 European Economic History
+ECON 236 Economics of the European Union
+ECON 240 Microeconomics of Development
+ECON 241 Growth and Development
+ECON 242 Economics of Agricultural and Food Policy
+ECON 245 Economics of Inequality
+ECON 250 History of Economic Ideas
+ECON 251 The Economics of the Arts and Culture
+ECON 260 Managerial Economics I
+ECON 261 Managerial Economics II
+ECON 262 The Economics of Sports
+ECON 270 Economics of the Public Sector
+ECON 271 Economics of Natural Resources and the Environment
+ECON 272 Organizations and Decisionmaking
+ECON 273 Water and Western Economic Development
+ECON 274 Labor Economics
+ECON 275 Law and Economics
+ECON 276 Money and Banking
+ECON 277 Antitrust and Regulations
+ECON 278 Industrial Organization and Pricing Policy
+ECON 280 International Trade
+ECON 281 International Finance
+ECON 282 Financial Markets
+ECON 310 A Primer on Game Theory and Strategic Behavior
+ECON 330 Intermediate Price Theory
+ECON 331 Intermediate Macro Theory
+ECON 332 Econometrics
+ECON 395 Senior Seminar
+ECON 400 Integrative Exercise
+EDUC 110 Introduction to Educational Studies
+EDUC 225 Issues in Urban Education
+EDUC 234 Educational Psychology
+EDUC 238 Multicultural Education
+EDUC 240 Philosophies of Education
+EDUC 254 Teaching Exceptional Students
+EDUC 266 Urban College Access
+EDUC 268 Saving Our Country, Saving our Schools: Public Education for the Public Good
+EDUC 272 Public Policy for Public Education: Globalization and Civil Society
+EDUC 332 Reading, Writing and Teaching for Social Change
+EDUC 336 History of African American Education
+EDUC 344 Teenage Wasteland: Adolescence and the American High School
+EDUC 345 Methods of Teaching Art
+EDUC 346 Methods of Teaching Modern World Languages
+EDUC 347 Methods of Teaching Science
+EDUC 348 Methods of Teaching Social Studies
+EDUC 350 Methods of Teaching Mathematics
+EDUC 353 Schooling and Opportunity in American Society
+EDUC 355 356. Student Teaching
+EDUC 360 Gender, Sexuality and Schooling
+EDUC 379 Methods of Literacy Instruction
+EDUC 380 Ethics and Education
+EDUC 385 Schooling and Communities: A Practicum for Teacher Candidates
+EDUC 395 Senior Seminar: Education and Social Change
+ENGL 099 Summer Writing Program
+ENGL 100 Freshman Seminar
+ENGL 109 Writing Seminar
+ENGL 110 English Literature, I
+ENGL 111 English Literature, II
+ENGL 112 Introduction to American Literature
+ENGL 117 African American Literature
+ENGL 118 Introduction to Poetry
+ENGL 119 Introduction to U.S. Latino/a Literature
+ENGL 120 Modern Literature: British and American
+ENGL 130 Shakespeare I
+ENGL 200 Methods of Interpretation
+ENGL 220 Arts of Oral Presentation
+ENGL 227 Borderlands: Places and People
+ENGL 230 African American Autobiography
+ENGL 234 Southern Literature
+ENGL 235 Asian American Literature
+ENGL 236 American Nature Writing
+ENGL 238 African Literature in English
+ENGL 239 American Best-Sellers
+ENGL 241 Language Thieves: Women in American Poetry
+ENGL 249 Irish Literature
+ENGL 260 Introduction to Creative Writing
+ENGL 270 The Crafts of Writing: The Short Story
+ENGL 271 The Crafts of Writing: Poetry
+ENGL 275 Writing The Essay: From Imitation to Invention
+ENGL 290 Directed Reading: London Program
+ENGL 300 Chaucer I: The Canterbury Tales
+ENGL 301 The Courtly Chaucer
+ENGL 310 Shakespeare: The Histories and Comedies
+ENGL 311 Shakespeare: The Tragedies
+ENGL 313 Major Works of the English Renaissance: The Faerie Queene
+ENGL 314 Major Works of the English Renaissance: Paradise Lost
+ENGL 318 The Gothic Spirit
+ENGL 319 The Rise of the Novel
+ENGL 322 The Art of Jane Austen
+ENGL 323 English Romantic Poets
+ENGL 327 Nineteenth Century Fiction
+ENGL 328 Victorian Poetry
+ENGL 330 Literature of the American West
+ENGL 331 American Transcendentalism
+ENGL 332 Studies in American Literature: Faulkner, Hemingway, and Fitzgerald
+ENGL 334 Studies in American Literature: The Postmodern American Novel
+ENGL 336 Romance to Novel: Poe, Hawthorne, James
+ENGL 339 Contemporary American Playwrights of Color
+ENGL 341 Contemporary Poetry
+ENGL 342 Contemporary Latino/a Poetry
+ENGL 362 Narrative Theory
+ENGL 365 British Comedy
+ENGL 370 Advanced Crafts of Writing: The Short Story
+ENGL 371 Advanced Crafts of Writing: Poetry
+ENGL 379 Methods of Literacy Instruction
+ENGL 380 London Program: London Theater
+ENGL 381 London Program: Landscape and Cityscape in Nineteenth Century English Literature
+ENGL 395 Senior Seminar
+ENGL 400 Integrative Exercise
+ENTS 100 Science, Technology and Public Policy
+ENTS 228 Eco-House Design and Construction
+ENTS 298 Ethics and Values Colloquium
+ENTS 300 Practical Conservation
+ENTS 305 Topics in Environmental History: The World's Water
+ENTS 320 Comparative Environment and Development Seminar
+ENTS 391 Senior Capstone Project
+ENTS 398 Senior Colloquium: Capstone Project Proposal
+EUST 110 Introduction to European Studies
+EUST 398 Senior Colloquium
+FREN 101 Elementary French
+FREN 102 Elementary French
+FREN 103 Intermediate French
+FREN 204 Intermediate French
+FREN 206 The Media: A Multifaceted Approach
+FREN 208 Paris Program: Conversation and Composition
+FREN 210 Coffee and News
+FREN 233 The French Cinema
+FREN 235 Francophone Literature of Africa and the Caribbean
+FREN 240 Dreams of Trespass
+FREN 241 Identity Quests
+FREN 243 Culture with a Small "c"
+FREN 246 Paris Program: City of Wonders: Paris in the Arts
+FREN 249 Paris Program: Living in the City: Paris-Fes
+FREN 250 Mali Program: Film and Society in Mali
+FREN 251 Mali Program: Negotiating the Past: The Challenges of Nation-building in Mali
+FREN 252 Mali Program: Literature and Society in Mali
+FREN 309 Beyond Words: The Fine Art of Writing in French
+FREN 349 Paris Program: Living in the City: Paris-Fes
+FREN 351 Topics in the Sixteenth Century Literature: Metamorphoses: Love, War and Monsters in Early Modern France
+FREN 352 The Court and its Dissenters
+FREN 354 Literature of the Other
+FREN 356 Topics in Nineteenth-Century Literature: Aesthetics of the False
+FREN 359 Twentieth Century Literature: The Novel and Memory
+FREN 360 Topics in French Studies: Algeria-France
+FREN 395 The Mande of West Africa: A Culture in Transition
+FREN 400 Integrative Exercise
+GEOL 100 Geology in the Field
+GEOL 110 Introduction to Geology
+GEOL 120 Introduction to Environmental Geology
+GEOL 190 Energy and the Environment
+GEOL 210 Geomorphology
+GEOL 220 Tectonics
+GEOL 230 Paleobiology
+GEOL 250 Mineralogy
+GEOL 255 Petrology
+GEOL 258 Geology of Soils
+GEOL 260 Sedimentology and Stratigraphy
+GEOL 265 Structural Geology
+GEOL 340 Hydrology
+GEOL 370 Geochemistry of Natural Waters
+GEOL 400 Integrative Exercise
+GERM 100 Freshman Seminar
+GERM 101 Elementary German
+GERM 102 Elementary German
+GERM 103 Intermediate German
+GERM 110 German for Reading Knowledge
+GERM 204 Intermediate German
+GERM 206 Composition and Conversation
+GERM 207 Young Adult Literature
+GERM 210 Coffee and the News
+GERM 216 Studies in German Cinema: Current Issues in Contemporary Film
+GERM 230 From Gutenberg to Gates: The History and Practice Printing
+GERM 231 Damsels, Dwarfs, and Dragons: Medieval German Literature
+GERM 232 The Forest in German Literature and Culture
+GERM 241 Minority Voices in German Literatures
+GERM 246 Rebels, Revolutionaries, and Misfits
+GERM 260 Community and the Individual: German Literature and Life, 1780-1900
+GERM 261 Visions of Reality: Germany in the Twentieth Century
+GERM 268 Trials and Tribulations in Translation
+GERM 278 Sport, Identity, and Nationalism
+GERM 280 Holocaust: Memory and Representations
+GERM 295 Berlin: The Metropolis and the Culture of Modernity
+GERM 301 Coffee and the News
+GERM 312 Rilke and His Circle
+GERM 345 Vienna: Dream and Reality
+GERM 350 Two Countries-One Nation-Germany and the Cold War
+GERM 351 The Age of Goethe
+GERM 354 Studies in Twentieth Century Prose and Poetry
+GERM 355 Topics in German Drama: Twentieth Century Theatrical Experiments
+GERM 360 The Song that Sleeps in Everything: German Poetry through the Ages
+GERM 400 Integrative Exercise
+HEBR 100 Freshman Seminar
+HEBR 101 Elementary Modern Hebrew
+HEBR 102 Elementary Modern Hebrew
+HEBR 103 Elementary Modern Hebrew
+HEBR 204 Intermediate Modern Hebrew
+HEBR 221 Israeli Literature in the Middle East
+HIST 110 Introduction to History
+HIST 120 Rethinking the American Experience: American Social History, 1607-1865
+HIST 121 Rethinking the American Experience: American Social History, 1865-1945
+HIST 130 The Formation of Early Christian Thought
+HIST 137 Before Europe: The Early Medieval World, 250-c. 1050
+HIST 138 The Making of Europe
+HIST 139 Foundations of Modern Europe
+HIST 140 Modern Europe 1789-1914
+HIST 141 Europe in the Twentieth Century
+HIST 150 Ancient and Medieval Japan
+HIST 151 History of Modern Japan
+HIST 152 History of Imperial China
+HIST 153 History of Modern China
+HIST 156 History of Modern Korea
+HIST 160 History of Classical India
+HIST 161 History of Modern India
+HIST 165 Modern Middle East 1800-1939
+HIST 166 Modern Middle East 1939 to Present
+HIST 168 Palestinian-Israeli Conflict, 1881 to Present
+HIST 169 Colonial Latin America 1492-1810
+HIST 170 Modern Latin America 1810-Present
+HIST 172 Introduction to Andean Social History
+HIST 180 An Historical Survey of East Africa
+HIST 181 Western African Societies in Historical Perspective
+HIST 182 A Survey of Southern African History
+HIST 195 American Environmental History
+HIST 200 The Zen of Asian and Western Woodworking
+HIST 204 Crusade, Contact and Exchange in the Medieval Mediterranean
+HIST 208 The Atlantic World: Columbus to the Age of Revolutions, 1492-1792
+HIST 210 Studies in Traditional Societies: Bandits, Outlaws and Other Rebels: A Comparative History
+HIST 211 More than Pilgrims: Colonial British America
+HIST 212 The Era of the American Revolution
+HIST 213 The Age of Jefferson
+HIST 214 The Era of Civil War Reconstruction, 1846-1877
+HIST 217 From Ragtime to Football: U.S. History in the 1890s
+HIST 218 History, Memory, and the Vietnam War
+HIST 219 US in the Cold War Era, 1945-1989
+HIST 220 African American History I
+HIST 221 African American History II
+HIST 222 U.S. Women's History to 1877
+HIST 223 U.S. Women's History Since 1877
+HIST 226 U.S. Consumer Culture
+HIST 227 History of the American West
+HIST 228 American Indian History
+HIST 229 Gender and Work in U.S. History
+HIST 232 The Renaissance
+HIST 233 Cultures of Empire: Byzantium, 710-1453
+HIST 234 France in the Making, 987-1460
+HIST 235 Dante's Italy
+HIST 236 Courtly Queens to Revolutionary Heroines: European Women 1100-1800
+HIST 237 The Enlightenment
+HIST 238 The World of Bede
+HIST 238 Topics in Medieval History: Church, Papacy and Empire
+HIST 240 History of Russia to 1917
+HIST 241 History of Russia Since 1917
+HIST 243 The Peasants are Revolting! Society and Politics in the Making of Modern France
+HIST 244 History of European Diplomacy
+HIST 245 Ireland: The Origin of the Troubles
+HIST 249 The New Central Europe in Historical Perspective
+HIST 253 Bureaucracy, Law, and Religion in East Asia
+HIST 254 Colonialism in East Asia
+HIST 258 Foreign Relations of East Asia in Modern Times
+HIST 259 Women in South Asia: Histories, Narratives, and Representation
+HIST 260 The Making of the Modern Middle East
+HIST 261 The Modern Middle East
+HIST 262 Post-colonial South Asia, 1947-Present
+HIST 265 Empires of the Steppe
+HIST 267 History of Modern Turkey
+HIST 272 The Emergence of Modern Mexico
+HIST 276 The African Presence in Latin America
+HIST 277 Human Rights, the Cold War and US Foreign Policy in Central America
+HIST 278 Religion and Identity in Latin American History
+HIST 279 American Intellectual History
+HIST 283 Farm and Forest: African Environmental History
+HIST 284 Colonial West Africa
+HIST 285 Topics in Historical Ethics: The Ethics of Service
+HIST 298 Junior-year History Colloquium
+HIST 306 Topics in Env History
+HIST 322 The Civil Rights Movement in America
+HIST 324 The Concord Intellectuals
+HIST 360 Muslims and Modernity
+HIST 381 History, Memory and Black Atlantic: Ghana and the United States
+HIST 382 History, Memory and Black Atlantic: On-Site in Ghana and Revisited
+HIST 395 Liberty, Equality, Power: America from 1607-1865
+HIST 395 Arab Nationalism
+HIST 395 Voyages of Understanding
+HIST 395 Narrative and Memory in African History
+HIST 395 Fascism
+HIST 400 Integrative Exercise
+IDSC 100 Measured Thinking: Reasoning with Numbers about World Events, Health, Science and Social Issues
+IDSC 200 Northfield: Public Service in Local Context
+IDSC 209 Writing Science
+IDSC 217 Interdisciplinary Computational Modeling
+POSC 100 Freshman Seminar
+POSC 120 Comparative Political Regimes
+POSC 122 Politics in America: Liberty and Equality
+POSC 160 Political Philosophy
+POSC 170 International Relations and World Politics
+POSC 201 National Policymaking
+POSC 202 Parties, Interest Groups and Elections
+POSC 204 Media and American Politics: Special Election Edition
+POSC 206 The American Courts
+POSC 207 Urban Politics
+POSC 211 Institutions and Democracy
+POSC 216 The Initiative, Referendum and Public Policy
+POSC 221 Latin American Politics
+POSC 224 Migration Politics: Asian American and Latino Experiences
+POSC 230 Methods of Political Research
+POSC 231 American Foreign Policy
+POSC 233 The Global Resurgence of Democracy
+POSC 234 The Arab-Israeli Conflict
+POSC 238 West European Politics
+POSC 239 The Diplomat's Craft: Three Case Studies
+POSC 240 Religion, Democracy and Pragmatism
+POSC 241 Ethnic Conflict
+POSC 242 Hong Kong: A Relic of the Past or a Model for the Future
+POSC 243 The Politics of Burma: Democratic Challenge, Military Response
+POSC 244 Post-Communist States in East-Central Europe
+POSC 245 Comparative Environmental Politics and Policy
+POSC 246 International Perspectives on Human Rights
+POSC 247 Comparative Nationalism
+POSC 250 Ancient Political Philosophy
+POSC 251 Modern Political Philosophy
+POSC 252 American Political Thought
+POSC 253 Communist Political Thought: Marx to Mao
+POSC 254 Classical Political Psychology: Aristotle's Rhetoric
+POSC 255 Post-Modern Political Thought
+POSC 256 Democracy and Its Critics
+POSC 257 American Environmental Thought
+POSC 258 Politics and Ambition
+POSC 259 Justice Among Nations
+POSC 261 Political Theory: Tocqueville
+POSC 262 Environmental Policy and Politics*
+POSC 263 European Political Economy
+POSC 265 Politics of Global Economic Relations
+POSC 266 Urban Political Economy
+POSC 268 International Environmental Politics and Policy
+POSC 271 Constitutional Law I
+POSC 272 Constitutional Law II
+POSC 281 Global Society: An Approach to World Politics
+POSC 289 Washington D.C. Program: Seminar
+POSC 293 Washington D.C. Program: Seminar
+POSC 305 Issues in American Democracy*
+POSC 306 Racial and Ethnic Politics*
+POSC 308 Poverty and Public Policy*
+POSC 309 The American Presidency*
+POSC 311 Topics in Constitutional Law*
+POSC 316 The Initiative, Referendum and Public Policy*
+POSC 320 Government and Politics of Africa*
+POSC 322 Political Economy of Latin America*
+POSC 326 America's China Policy*
+POSC 327 The Politics of African Development*
+POSC 328 Foreign Policy Analysis*
+POSC 329 Vietnam War and American Policy*
+POSC 330 The Complexity of Politics*
+POSC 339 International Organizations*
+POSC 342 International Conflict and War*
+POSC 343 Seminar in World Politics*
+POSC 344 America's War on International Terrorism*
+POSC 345 Guerillas, Warlords and Bandits: The Art of Asymmetric War*
+POSC 346 Spies, Rogues and Statesmen: Intelligence and the Formation of Foreign Policy*
+POSC 348 Religion, Democracy and Pragmatism*
+POSC 350 Problems in Political Philosophy*
+POSC 350 Nietzsche and Political Philosophy*
+POSC 350 Ancient Political Philosophy*
+POSC 351 Political Theory of Martin Luther King, Jr.*
+POSC 352 Political Theory of Alexis de Tocqueville*
+POSC 353 Feminist and American Separatist Movements
+POSC 355 Contemporary Feminist Thought: Identity, Culture and Rights*
+POSC 356 Green Political Theory and Contemporary Political Thought
+POSC 358 Comparative Social Movements*
+POSC 360 Political Economy Seminar*
+POSC 362 Globalization and the State*
+POSC 364 Capitalism and Its Critics*
+POSC 365 People, Choice, and Resources: International Public Policy*
+POSC 366 Urban Political Economy*
+POSC 367 Suburbanization in America
+POSC 378 Beijing Program: Chinese Social and Political Institutions
+POSC 379 Beijing Program: Chinese Decision Making
+POSC 381 Beijing Program: Politics of Economic Development
+POSC 382 Beijing Program: Chinese Economics in Transition
+POSC 383 Maastricht Program: Politics of the European Union
+POSC 385 Comparative Democratic Institutions*
+POSC 387 Maastricht Program: The Europe of Regions*
+POSC 392 Maastricht Program: Comparative Field Research Methods
+POSC 400 Integrative Exercise
+LTAM 200 Issues in Latin American Studies
+LTAM 398 Latin American Forum
+LTAM 400 Integrative Exercise
+LING 110 Introduction to Linguistics
+LING 115 Introduction to the Theory of Syntax
+LING 180 The Structure of Japanese
+LING 185 The Structure of Hungarian
+LING 210 Words and Rules
+LING 215 The Syntax of an Unfamiliar Language
+LING 217 Phonetics and Phonology
+LING 230 Language and Aspect
+LING 250 Linguistics and the Literary Art
+LING 270 Language, Speech, and Evolution
+LING 285 Issues in Modern Japanese Grammar
+LING 317 Topics in Phonology
+LCST 150 Amazons, Valkyries, Naiads, Dykes: Woman Identified and Lesbian Artists in Europe
+LCST 245 Introduction to Critical Methods: Structure, Gender, Culture
+LCST 270 Degeneration and the Fin de Siecle
+MATH 100 Freshman Seminar
+MATH 101 Calculus with Problem Solving
+MATH 106 Introduction to Mathematics
+MATH 111 Calculus I
+MATH 115 Statistics: Concepts and Applications
+MATH 121 Calculus II
+MATH 206 A Tour of Mathematics
+MATH 211 Calculus III
+MATH 215 Introduction to Statistics
+MATH 216 Seminar: History of Mathematics
+MATH 232 Linear Algebra
+MATH 236 Mathematical Structures
+MATH 241 Ordinary Differential Equations
+MATH 244 Geometries
+MATH 245 Applied Regression Analysis
+MATH 251 Chaotic Dynamics
+MATH 265 Probability
+MATH 275 Mathematical Statistics
+MATH 285 Topics in Probability and Statistics
+MATH 295 Computational Number Theory
+MATH 311 Topics in Numerical Analysis
+MATH 312 Elementary Theory of Numbers
+MATH 321 Real Analysis I
+MATH 331 Real Analysis II
+MATH 332 Advanced Linear Algebra
+MATH 333 Combinatorial Theory
+MATH 341 Partial Differential Equations
+MATH 342 Abstract Algebra I
+MATH 344 Differential Geometry
+MATH 349 Methods of Teaching Mathematics
+MATH 351 Functions of a Complex Variable
+MATH 352 Abstract Algebra II
+MATH 354 Topology
+MATH 395 Senior Seminar
+MATH 400 Integrative Exercise
+MUSC 100 Introduction to Appreciating Western Art Music
+MUSC 101 Music Fundamentals
+MUSC 102 Basic Musicianship
+MUSC 108 Introduction to Music Technology
+MUSC 110 Introduction to the Study of Music
+MUSC 111 Western Art Music and Western Civilization
+MUSC 113 Music and Gender
+MUSC 115 Music and the Media
+MUSC 117 Introduction to Composition
+MUSC 120 Introduction to Opera
+MUSC 121 Beethoven Symphonies
+MUSC 122 Symphonies from Mozart to Mahler
+MUSC 128 Conducting
+MUSC 130 The History of Jazz
+MUSC 131 From the Delta to Memphis
+MUSC 133 Bluegrass and Country
+MUSC 136 History of Rock
+MUSC 137 Spiritual Hymns and Gospel Music: Aspects of African-American Music Traditions
+MUSC 140 Introduction to World Music I
+MUSC 141 Introduction to World Music II
+MUSC 150 Piano Studies
+MUSC 250 Piano Studies
+MUSC 151 Voice
+MUSC 251 Voice
+MUSC 152 Guitar Studies
+MUSC 252 Guitar Studies
+MUSC 155 Violin
+MUSC 255 Violin
+MUSC 156 Viola
+MUSC 256 Viola
+MUSC 157 Cello
+MUSC 257 Cello
+MUSC 158 Double Bass 
+MUSC 258 Double Bass
+MUSC 159 Flute
+MUSC 259 Flute
+MUSC 160 English Horn
+MUSC 260 English Horn
+MUSC 160 Oboe
+MUSC 260 Oboe
+MUSC 161 Clarinet
+MUSC 261 Clarinet
+MUSC 162 Saxophone
+MUSC 262 Saxophone
+MUSC 163 Bassoon
+MUSC 263 Bassoon
+MUSC 164 French Horn
+MUSC 264 French Horn
+MUSC 165 Trumpet
+MUSC 265 Trumpet
+MUSC 166 Trombone
+MUSC 266 Trombone
+MUSC 166 Euphonium
+MUSC 266 Euphonium
+MUSC 167 Tuba
+MUSC 267 Tuba
+MUSC 168 Orchestral Percussion
+MUSC 268 Orchestral Percussion
+MUSC 169 Harp Studies
+MUSC 269 Harp Studies
+MUSC 170 Harpsichord
+MUSC 270 Harpsichord
+MUSC 171 Organ
+MUSC 271 Organ
+MUSC 172 Lute
+MUSC 272 Lute
+MUSC 173 Viola da Gamba
+MUSC 273 Viola da Gamba
+MUSC 174 Recorder
+MUSC 274 Recorder
+MUSC 175 Jazz Piano
+MUSC 275 Jazz Piano
+MUSC 176 Jazz Bass
+MUSC 276 Jazz Bass
+MUSC 177 Jazz and Blues Guitar
+MUSC 277 Jazz and Blues Guitar
+MUSC 178 Drum Set Instruction
+MUSC 278 Drum Set Instruction
+MUSC 179 Jazz Improvisation
+MUSC 279 Jazz Improvisation
+MUSC 180 Raga
+MUSC 280 Raga
+MUSC 181 Sitar
+MUSC 281 Sitar
+MUSC 182 Chinese Musical Instruments
+MUSC 282 Chinese Musical Instruments
+MUSC 183 Ethnic Drumming Instruction
+MUSC 283 Ethnic Drumming Instruction
+MUSC 184 American Folk Instruments
+MUSC 284 American Folk Instruments
+MUSC 185 Carleton Choir: Bella Cantemus
+MUSC 187 Carleton Orchestra
+MUSC 189 Carleton Symphony Band
+MUSC 190 Carleton Jazz Ensemble
+MUSC 191 African Karimba Ensemble
+MUSC 192 African Drum Ensemble
+MUSC 193 African Mbira Ensemble
+MUSC 194 Chamber Music
+MUSC 195 Pro Musica Singers
+MUSC 195 Jubilee Singers
+MUSC 196 Class Voice
+MUSC 197 Class Guitar
+MUSC 199 African Drum Class
+MUSC 200 Music Theory I
+MUSC 201 Music Theory II
+MUSC 205 Keyboard Harmony
+MUSC 210 Medieval and Renaissance Music
+MUSC 211 Baroque and Classical Music
+MUSC 213 Music and Gender
+MUSC 220 Composition
+MUSC 225 Orchestration
+MUSC 227 Introduction to Perception and Cognition of Music
+MUSC 239 Philosophy of Music
+MUSC 243 Music of the Caribbean
+MUSC 245 Music of Africa
+MUSC 247 The U.S. Folk Music Revival
+MUSC 248 Music of India
+MUSC 298 Junior Colloquium
+MUSC 299 Recital
+MUSC 300 Theory III
+MUSC 302 Analysis of Twentieth Century Music
+MUSC 312 Romantic and Modern Music
+MUSC 320 Advanced Composition Seminar
+MUSC 330 Jazz History Seminar
+MUSC 400 Integrative Exercise
+PHIL 110 Introduction to Philosophy
+PHIL 111 Introduction to Western Philosophy I: Ancient and Medieval
+PHIL 112 Introduction to Western Philosophy II: Modern and Contemporary
+PHIL 210 Logic
+PHIL 211 Metaphysics
+PHIL 212 Epistemology
+PHIL 213 Ethics
+PHIL 220 Topics in Philosophy
+PHIL 232 Social and Political Philosophy: Justice and Politics
+PHIL 234 Aesthetics
+PHIL 235 Feminist Philosophy
+PHIL 242 Environmental Ethics
+PHIL 250 Philosophy of Physics
+PHIL 251 Philosophy of Biology
+PHIL 253 Philosophy of Cognitive Science
+PHIL 270 Ancient Greek Philosophy
+PHIL 272 Modern Philosophy
+PHIL 274 Existentialism
+PHIL 281 Advanced Logic
+PHIL 395 Senior Seminar
+PHIL 399 Senior Thesis
+PHIL 400 Integrative Exercise
+PE 101 Aerobics
+PE 103 Aikido, Beginning
+PE 104 Aikido, Advanced
+PE 105 Badminton, Beginning
+PE 106 Badminton, Intermediate
+PE 107 Ballet I
+PE 108 Ballet II
+PE 109 Ballet III
+PE 111 Basketball
+PE 117 Cote Fitness
+PE 119 Cycling, Recreational
+PE 121 Fencing, Beginning
+PE 121 Fencing, Intermediate
+PE 125 Folk Dance
+PE 127 Frisbee, Beginning Ultimate
+PE 128 Frisbee, Advanced Ultimate
+PE 129 Golf, Beginning
+PE 130 Advanced Golf
+PE 131 Ice Hockey
+PE 133 Ice Skating, Beginning
+PE 134 Ice Skating, Intermediate
+PE 135 Outdoor Activity Course
+PE 138 Jazz Dance
+PE 142 Karate
+PE 146 Life Guard Training
+PE 147 Moving Anatomy
+PE 148 Modern Dance I
+PE 149 Modern Dance II
+PE 150 Contact Improvisation
+PE 151 Modern Dance III
+PE 154 Beginning Racquetball
+PE 156 Advanced Racquetball
+PE 157 Intermediate/Advanced Modern Dance Techniques
+PE 158 Rock Climbing
+PE 159 Scuba
+PE 161 Self Defense for Women
+PE 162 Women's Health & Fitness
+PE 167 Social Dance I
+PE 168 Social Dance II
+PE 169 Social Dance, Winter Ball
+PE 170 Squash
+PE 171 Step Aerobics
+PE 172 Swimming, Fitness
+PE 173 Swimming, Instructional
+PE 177 Social Dance, Swing
+PE 178 Tae Kwon Do
+PE 182 Tennis, Beginning
+PE 183 Tennis, Intermediate
+PE 186 Tennis, Advanced
+PE 188 Triathlon Training
+PE 190 Volleyball, Co-ed
+PE 191 Water Polo
+PE 192 Water Safety Instructor
+PE 194 Weight Training, Beginning
+PE 196 Weight Training for Women
+PE 199 Yoga
+PE 210 Baseball Intercollegiate
+PE 211 Basketball Intercollegiate
+PE 212 Basketball Intercollegiate
+PE 217 Cross Country Intercollegiate
+PE 218 Cross Country Intercollegiate
+PE 219 Cycling Club
+PE 220 Crew Club
+PE 221 Fencing Club
+PE 222 Field Hockey Club
+PE 226 Football Intercollegiate
+PE 227 Frisbee Club, Men
+PE 228 Frisbee Club, Women
+PE 229 Golf Intercollegiate, Men
+PE 230 Golf Intercollegiate, Women
+PE 231 Ice Hockey Club, Men
+PE 232 Ice Hockey Club, Women
+PE 233 Equestrian Club
+PE 244 Lacrosse Club, Men
+PE 245 Lacrosse Club, Women
+PE 258 Rugby Club, Men
+PE 259 Rugby Club, Women
+PE 260 Sailing Club
+PE 263 Nordic Ski Club
+PE 265 Alpine Ski Club
+PE 268 Squash Club
+PE 269 Soccer Intercollegiate, Men
+PE 270 Soccer Intercollegiate, Women
+PE 271 Softball Intercollegiate, Women
+PE 272 Swimming/Diving Intercollegiate, Men
+PE 273 Swimming/Diving Intercollegiate, Women
+PE 276 Synchronized Swim, Intercollegiate
+PE 282 Tennis Intercollegiate, Men
+PE 283 Tennis Intercollegiate, Women
+PE 286 Track and Field/Indoor Intercollegiate, Men
+PE 287 Track and Field/Indoor Intercollegiate, Women
+PE 288 Track and Field/Outdoor Intercollegiate, Men
+PE 289 Track and Field/Outdoor Intercollegiate, Women
+PE 290 Volleyball Club, Men
+PE 291 Volleyball Intercollegiate, Women
+PE 293 Water Polo Club
+PE 310 First Aid and CPR
+PE 314 Athletic Training I: Gross Human Anatomy
+PE 315 Athletic Training II: Prevention and Care of Athletic Injuries
+PE 348 Principles of Athletics
+PE 350 Methods of Coaching Organized Sports
+PSYC 110 Principles of Psychology
+PSYC 124 Measurement and Data Analysis in Psychology
+PSYC 126 Advanced Topics in Measurement and Data Analysis
+PSYC 210 Psychology of Learning
+PSYC 211 Laboratory Research Methods in Learning
+PSYC 212 Comparative Cognition
+PSYC 215 Memory and Amnesia
+PSYC 216 Behavioral Neuroscience
+PSYC 217 Laboratory Research Methods in Behavioral Neuroscience
+PSYC 220 Sensation and Perception
+PSYC 221 Laboratory Research Methods in Sensation and Perception
+PSYC 224 Psychology of Gender
+PSYC 232 Cognitive Processes
+PSYC 233 Laboratory Research Methods in Cognitive Processes
+PSYC 234 Psychology of Language
+PSYC 235 Psychology of Language Laboratory
+PSYC 236 Thinking, Reasoning, and Decision-Making
+PSYC 250 Developmental Psychology
+PSYC 252 Personality
+PSYC 253 Research Methods in Personality Laboratory
+PSYC 256 Social Behavior and Interpersonal Processes
+PSYC 257 Laboratory Research Methods in Social Behavior and Interpersonal Processes
+PSYC 258 Social Cognition
+PSYC 259 Laboratory Research Methods in Social Cognition
+PSYC 298 Junior Colloquium
+PSYC 318 Psychopharmacology
+PSYC 354 Counseling Psychology
+PSYC 356 Psychopathology
+PSYC 364 Psychology of Reading Words
+PSYC 366 Cognitive Neuroscience
+PSYC 367 Clinical Psychobiology
+PSYC 369 Behavioral Medicine
+PSYC 370 Topics in Cognition: Attention and Consciousness
+PSYC 371 Primate Cognition
+PSYC 372 A Pill for Every Problem: Promise of Neuropharmocology
+PSYC 374 Eyewitness Testimony in Children: Reconstructive Memory
+PSYC 375 Language and Deception
+PSYC 377 Research Seminar in Language: Conversational Processes
+PSYC 378 Psychology of Women: Mothers & Daughters
+PSYC 379 Psychology of Close Relationships
+PSYC 380 Seminar in Developmental Psychology: Cognitive Development During the Preschool Years
+PSYC 382 Topics in Social and Personality: Positive Psychology
+PSYC 384 Psychology of Prejudice
+PSYC 394 Directed Essay
+PSYC 396 Directed Research
+PSYC 400 Integrative Exercise
+RELG 100 Freshman Seminar
+RELG 110 Introduction to Religion
+RELG 111 Judaism, Christianity, Islam
+RELG 120 Introduction to Judaism
+RELG 121 Introduction to Christianity
+RELG 122 Introduction to Islam
+RELG 123 Muhammad and the Quran
+RELG 124 Jews and the American Experience
+RELG 130 Native American Religions
+RELG 135 Introduction to African American Religion
+RELG 140 Religion and American Culture
+RELG 150 Religions of South Asia
+RELG 151 Chinese Religion and Culture
+RELG 152 Japanese Religion and Culture
+RELG 154 Daoism
+RELG 160 Psychology and Religion: Freud, Jung and James
+RELG 211 Religion and Modern Literature
+RELG 220 Patriarchs, Priests, Prophets and Poets (Hebrew Bible)
+RELG 221 Jesus, Paul, and Christian Origins (New Testament)
+RELG 224 Women and Christianity
+RELG 225 Catholic Life and Thought
+RELG 226 Muhammad in History and Memory
+RELG 227 Liberation Theologies
+RELG 228 Issues in Christian Ethics
+RELG 231 Protestant Thought
+RELG 234 Way of Wisdom: Job and Ecclesiastes
+RELG 235 Women and Islamic Constructions of Gender
+RELG 239 Religion and the American Landscape
+RELG 243 Native American Religious Freedom
+RELG 249 Religion and American Public Life
+RELG 250 Hindu Traditions
+RELG 251 Theravada Buddhism
+RELG 253 Tibetan Buddhism
+RELG 263 Sufism
+RELG 269 Jewish Ethics
+RELG 271 Religious and Moral Issues of the Holocaust
+RELG 273 Indian Philosophy
+RELG 300 Issues in the Study of Religion
+RELG 319 Bioethics: Christian Approaches
+RELG 322 Gender and God-Talk: Christian Feminist Theologies
+RELG 327 Genesis
+RELG 328 Contemporary Jewish Thought
+RELG 329 Theology, Tradition, and Culture
+RELG 331 God, Lovesickness, and Wine
+RELG 344 Lived Religion in America
+RELG 350 Emptiness
+RELG 380 Radical Critiques of Christianity
+RELG 399 Senior Research Seminar
+RELG 400 Integrative Exercise
+RUSS 101 Elementary Russian
+RUSS 102 Elementary Russian
+RUSS 103 Elementary Russian
+RUSS 107 Moscow Program: Beginning Grammar
+RUSS 108 Moscow Program: Beginning Phonetics
+RUSS 109 Moscow Program: Beginning Conversation
+RUSS 150 Contemporary Russian Culture and Society
+RUSS 204 Intermediate Russian
+RUSS 205 Russian in Cultural Contexts
+RUSS 207 Moscow Program: Intermediate Grammar
+RUSS 208 Moscow Program: Intermediate Phonetics
+RUSS 209 Moscow Program: Intermediate Conversation
+RUSS 226 Moscow Program: Magical Russia
+RUSS 244 Russian Literature in Translation: The Novel to 1917
+RUSS 255 Russian Cinema: History and Theory
+RUSS 266 Dostoevsky
+RUSS 267 War and Peace
+RUSS 268 Russian Fiction of the Soviet Period
+RUSS 290 Moscow Program: Reading for Russia
+RUSS 307 Moscow Program: Advanced Grammar
+RUSS 308 Moscow Program: Advanced Phonetics and Intonation
+RUSS 309 Moscow Program: Advanced Composition
+RUSS 345 Russian Cultural Idioms of the Nineteenth Century
+RUSS 351 Chekhov
+RUSS 360 Russian Theater in the Twentieth Century
+RUSS 395 Senior Seminar
+RUSS 400 Integrative Exercise
+SOAN 110 Introduction to Anthropology
+SOAN 111 Introduction to Sociology
+SOAN 130 Population and Food in the Global System
+SOAN 205 Guatemala Program: Indigenous Language Instruction
+SOAN 220 Class, Power, and Inequality in America
+SOAN 221 Law and Society
+SOAN 222 Working in the New Economy
+SOAN 224 Global Migrations
+SOAN 225 Social Movements
+SOAN 226 Anthropology of Gender
+SOAN 230 Human Evolution and Prehistory
+SOAN 234 Ecology, Economy, and Culture
+SOAN 236 Activism, Collective Action, and Social Change
+SOAN 240 Methods of Social Research
+SOAN 241 Guatemala Program: Field Research Methods
+SOAN 242 Qualitative Thinking
+SOAN 243 Social Research Practicum
+SOAN 244 Biodiversity Conservation, Culture, and Development
+SOAN 250 Ethnography of Latin America
+SOAN 251 Guatemala Program: Community Development, Cultural Empowerment and Social Change in Guatemala
+SOAN 252 Middle Eastern Social Theory
+SOAN 254 Anthropology of South Asia
+SOAN 255 Sociology, Culture and Politics in South Asia
+SOAN 256 Ethnography of Africa
+SOAN 259 Comparative Issues in Native North America
+SOAN 260 Myth, Ritual, and Symbolism
+SOAN 262 Anthropology of Health and Illness
+SOAN 266 Urban Sociology
+SOAN 272 Ethnicity and Race
+SOAN 274 Language and Culture
+SOAN 282 Anthropology of Japan
+SOAN 284 Anthropology of China
+SOAN 286 Anthropology of East Asia
+SOAN 302 Anthropology and Indigenous Rights
+SOAN 303 Criminology: Classical and Contemporary Perspectives
+SOAN 305 Environmentalism and Social Change
+SOAN 312 Actors and Issues in Contemporary Third World "Development"
+SOAN 330 Sociological Thought and Theory
+SOAN 331 Anthropological Thought and Theory
+SOAN 332 Contemporary Social Theory
+SOAN 400 Integrative Exercise
+SPAN 101 Elementary Spanish
+SPAN 102 Elementary Spanish
+SPAN 103 Intermediate Spanish
+SPAN 204 Intermediate Spanish
+SPAN 205 Conversation and Composition
+SPAN 206 Mexico Program: Conversation and Composition
+SPAN 207 Exploring Hispanic Culture
+SPAN 208 Coffee and News
+SPAN 209 Madrid Program: Exploring Spanish Culture
+SPAN 238 Images of the Indian in Spanish American Literature
+SPAN 240 Introduction to Spanish Literature
+SPAN 242 Introduction to Latin American Literature
+SPAN 243 Latin American Theater in Translation: Nation, Power, Gender
+SPAN 244 Spain Today: Recent Changes through Narrative and Film
+SPAN 246 Puebla Program: Introduction to Mexican Literature: The Twentieth Century
+SPAN 247 Madrid Program: Spanish Art from El Greco to Picasso
+SPAN 248 Mexico Program: Drama and Performance in Latin America
+SPAN 250 Spanish Cinema
+SPAN 256 Lorca, Buñuel, and Dalí: Poetry, Film, and Painting in Spain
+SPAN 258 The Spanish Civil War
+SPAN 260 Forces of Nature
+SPAN 290 Madrid Program: Directed Reading
+SPAN 320 New Spanish Voices
+SPAN 322 The Novel in Spain
+SPAN 324 Lyric and Modernity: The Prose Poem in Spain
+SPAN 326 Writers in Exile
+SPAN 328 The Roaring Twenties
+SPAN 330 The Invention of the Modern Novel: Cervantes' Don Quijote
+SPAN 334 Texts and Nations: Nineteenth Century Latin America
+SPAN 336 Genealogies of the Modern: Turn of the Century Latin America
+SPAN 338 Images of the Indian in Spanish American Literature
+SPAN 340 Latin American Prose: Dictatorships and Revolution in the Latin American Narrative
+SPAN 342 Latin American Theater: Nation, Power, Gender
+SPAN 344 Women Writers in Latin America: Challenging Gender and Genre
+SPAN 349 Madrid Program: Madrid: Theory and Practice of Urban Life
+SPAN 350 Recent Trends in Latin American Narrative: Pop Culture and Testimony
+SPAN 353 History and Subjectivity in Latin American Poetry
+SPAN 356 Lorca, Bunuel, and Dali: Poetry, Film, and Painting in Spain
+SPAN 358 Topics in Hispanic Literature: The Spanish Civil War
+SPAN 400 Integrative Exercise
+WGST 110. Introduction to Women's and Gender Studies
+WGST 200. Feminist Ways of Knowing
+WGST 234. Feminist Theory
+WGST 396. Crossing Borders with Transnational Feminists
