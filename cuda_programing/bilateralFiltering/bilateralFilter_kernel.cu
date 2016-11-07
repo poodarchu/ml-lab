@@ -4,6 +4,7 @@
 
 __constant__ float cGaussian[64]      // gaussian array in device side
 
+//下面这一段是我从论坛中找到的关于 texture 的内容
 /**
  * Like constant memory, texture memory is cached on chip, so in some situations it will provide higher effective bandwidth by reducing memory requests to off-chip DRAM.
  * Specifically, texture caches are designed for graphics applications where memory access patterns exhibit a great deal of spatial locality.
