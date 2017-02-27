@@ -42,8 +42,6 @@
 
 *.class
 
-*.csv
-
 *.pyc
 
 cuda_programing/Source Code.zip
