@@ -61,3 +61,5 @@ kaggle/digit_recongizer/data/train.csv
 kaggle/digit_recongizer/data/test.csv
 
 data_visualization/data/spx.csv
+
+*.xml
